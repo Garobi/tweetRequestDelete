@@ -9,4 +9,4 @@ After that you receive your files, you'll delete a single tweet and on your netw
 
 ![curl](https://github.com/Garobi/tweetRequestDelete/blob/main/images/GetCurl.png?raw=true)
 
-Then put it in a converter like [curlconverter](curlconverter.com) and paste the resulting code in the authDataDelete.py file.
+Then put it in a converter like curlconverter and paste the resulting code in the authDataDelete.py file.
